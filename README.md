@@ -1,11 +1,58 @@
-# Agenda
+# Agenda de Contatos em Python
 
-Desenvolvi uma aplicação desktop em Python utilizando Tkinter e SQLite para gerenciamento de contatos. O sistema permite adicionar, editar, excluir e consultar registros armazenados em banco local, aplicando validações de dados e manipulação de interface gráfica.
+## 📌 Sobre o Projeto
 
-Tecnologias usadas:
-Python
-Tkinter
-SQLite
-CRUD
+Este projeto consiste em uma **agenda de contatos desenvolvida em Python**, que permite armazenar e gerenciar informações de contatos de forma simples através do terminal.
 
-Atualmente: em ajustes para melhorias e adaptabilidade 
+A aplicação foi criada para praticar conceitos fundamentais de programação, como manipulação de dados, organização de funções e lógica de controle.
+
+## 🚀 Tecnologias Utilizadas
+
+* Python 3
+* Estruturas de dados
+* Programação procedural
+
+## 📂 Estrutura do Projeto
+
+```
+Agenda-main/
+│
+├── addressbook.py   # Arquivo principal da aplicação
+└── README.md        # Documentação do projeto
+```
+
+## ⚙️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta:
+
+```bash
+cd Agenda-main
+```
+
+3. Execute o programa:
+
+```bash
+python addressbook.py
+```
+
+## 📋 Funcionalidades
+
+* Adicionar novos contatos
+* Listar contatos cadastrados
+* Organizar informações básicas como nome, telefone ou outros dados
+* Estrutura simples para gerenciamento via terminal
+
+## 🎯 Objetivo do Projeto
+
+O objetivo deste projeto é **praticar conceitos fundamentais de programação em Python**, especialmente na construção de pequenos sistemas de gerenciamento de dados.
+
+## 👨‍💻 Autor
+
+Rafael Paiva
+Estudante de Análise e Desenvolvimento de Sistemas
